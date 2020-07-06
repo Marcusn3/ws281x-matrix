@@ -1,0 +1,31 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.run-button {
+  margin-top: 30px;
+  width: 100%;
+}
+
+#programs-dropdown {
+  width: 100%;
+}
+
+#rotation-buttons {
+  width: 100%;
+}
+
+.slider {
+  width: 100% !important;
+}
+
+.dropdown-menu {
+  font-size: 18px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  text-align: center;
+  width: 75%;
+  max-height: 300px;
+  overflow-x: hidden;
+}
